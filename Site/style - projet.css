@@ -98,6 +98,7 @@ a.button:hover {
     rgb(0, 0, 0); /* alternative solide */
     background-color: 
     rgba(0, 0, 0, 0.2);
+    justify-content: center;
 }
 .slide-index {
     color: #ffffff;
